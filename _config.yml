@@ -17,7 +17,7 @@ resume_title:                   "Computer Architecture, Processing in Memory"
 resume_contact_email:           "lisasimpson@youremailaddress.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_wechat:          "ssc4671627"
+# resume_contact_wechat:          "ssc4671627"
 resume_contact_address:         "No.6 Kexueyuan South Road Zhongguancun,Haidian District Beijing, China"
 
 resume_header_contact_info:     "No.6 Kexueyuan South Road Zhongguancun,Haidian District Beijing, China"
