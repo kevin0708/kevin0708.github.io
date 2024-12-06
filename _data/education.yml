@@ -1,11 +1,10 @@
 # Degree
-- degree: B.E. in Electrical and Electronic Engineering
-  uni: University of Electronic Science and Technology of China 2018.9 &mdash; 2022.7
-  award: 2020 National Scholarship, 2021 National Scholarship
+- degree: B.E. in Electrical and Electronic Engineering (2018.9 &mdash; 2022.7)
+  uni: University of Electronic Science and Technology of China 
+  # award: 2020 National Scholarship, 2021 National Scholarship
   # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: PhD Student (2022.9 &mdash; Present)
+  uni: Institute of Computing Technology, Chinese Academy of Sciences
+  # award: Most likely to succeed
+  # summary: You can choose to have either a single or multiple awards
