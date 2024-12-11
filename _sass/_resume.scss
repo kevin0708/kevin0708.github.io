@@ -18,7 +18,7 @@
 
 // page header styles
 
-.page-header { padding: 1.5rem 0;
+.page-header { padding: 1rem 0;
 
   .avatar {
     width: 95px;
@@ -50,7 +50,7 @@
   .title-bar {
     @include section_border;
     margin-top: 1rem;
-    padding: .4rem 0;
+    padding: .2rem 0;
     @include clearfix;
 
     .header-title {
@@ -82,7 +82,7 @@
   top: 4px;
   text-align: center;
   border-top: 2px solid #c7c7c7;
-  padding-top: .4rem;
+  padding-top: .2rem;
 
   @include media_larger_than_mobile {
     float: right;
@@ -178,7 +178,7 @@
 
 .page-footer {
   border-top: 4px solid #c7c7c7;
-  padding-top: 1.5rem;
+  padding-top: 1rem;
   text-align: center;
   margin-bottom: 2rem;
 
