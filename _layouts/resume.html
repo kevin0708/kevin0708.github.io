@@ -153,16 +153,24 @@
         <header class="section-header">
           <h2>Projects</h2>
         </header>
-
-        {% for project in site.data.projects %}
-        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
-          <p class="resume-item-copy">{{ project.description }}</p>
+        
+        <div class="project">
+          <h2>Accelerating Time Series Analysis on Commercial PIM DIMM</h2>
+          <p><strong>Duration:</strong> 2023.10 &mdash; 2024.2</p>
+          <ul>
+            <li>Accelerating TSA on UPMEM PIM DIMM and characterizing the performance of the TSA application on UPMEM.</li>
+            <li>Exploring the effect of additional computational resources on DIMM PIM for accelerating TSA.</li>
+          </ul>
         </div>
-        {% endfor %}
-
+      
+        <div class="project">
+          <h2>Scheduling Framework for Commercial PIM System</h2>
+          <p><strong>Duration:</strong> 2024.1 &mdash; 2024.6</p>
+          <ul>
+            <li>Create a scheduling framework for better utilizing the CPU in CPU-PIM system.</li>
+          </ul>
+        </div>
+      
       </section>
       <!-- end Projects -->
       {% endif %}
