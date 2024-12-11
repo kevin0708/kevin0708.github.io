@@ -154,7 +154,7 @@
           <h2>Projects</h2>
         </header>
 
-                {% for project in site.data.projects %}
+      {% for project in site.data.projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
@@ -163,35 +163,6 @@
         </div>
         {% endfor %} 
        
-        
-<!--         {% for project in site.data.projects %}
-        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-        <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-        <!-- 项目名和时间 -->
-        <div class="resume-item-header" style="display: flex; justify-content: space-between; align-items: center; font-size: 16px;">
-        <span class="resume-item-title" style="font-weight: bold;">
-        {% if project.url %}
-        <a href="{{ project.url }}" itemprop="url" style="text-decoration: none; color: inherit;">{{ project.project }}</a>
-        {% else %}
-        {{ project.project }}
-      {% endif %}
-      </span>
-      <span class="resume-item-duration" style="font-size: 14px; color: #555;">{{ project.duration }}</span>
-      </div>
-
-        <!-- 项目内容 -->
-        <div class="resume-item-details">
-          <ul style="list-style-type: none; padding-left: 0;">
-            {% for detail in project.description %}
-              <li style="margin-bottom: 5px; font-size: 14px;">
-                <span style="color: #333;">&bull;</span> {{ detail }}
-              </li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      {% endfor %} -->
-
 
       </section>
       <!-- end Projects -->
