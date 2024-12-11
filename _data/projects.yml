@@ -19,11 +19,11 @@ Projects
 - project: Accelerating Time Series Analysis on Commercial PIM DIMM
   duration: 2023.10 &mdash; 2024.2
   description: 
-    - Accelerating TSA on UPMEM PIM DIMM and characterizing the performance of the TSA application on UPMEM
-    - Exploring the effect of additional computational resources on DIMM PIM for accelerating TSA.
+    Accelerating TSA on UPMEM PIM DIMM and characterizing the performance of the TSA application on UPMEM
+    Exploring the effect of additional computational resources on DIMM PIM for accelerating TSA.
   
 - project: Scheduling Framework for Commercial PIM System
   duration: 2024.1 &mdash; 2024.6
   description: 
-    - Create a scheduling framework for better utilisation of the CPU in CPU-PIM system
+    Create a scheduling framework for better utilisation of the CPU in CPU-PIM system
   
