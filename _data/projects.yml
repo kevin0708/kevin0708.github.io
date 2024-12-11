@@ -15,15 +15,15 @@
 #   # url: "#"
 #   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
 
-Projects
-- project: "Accelerating Time Series Analysis on Commercial PIM DIMM"
-  duration: "2023.10 &mdash; 2024.2"
-  description: 
-    - "Accelerating TSA on UPMEM PIM DIMM and characterizing the performance of the TSA application on UPMEM"
-    - "Exploring the effect of additional computational resources on DIMM PIM for accelerating TSA."
+# Projects
+# - project: "Accelerating Time Series Analysis on Commercial PIM DIMM"
+#   duration: "2023.10 &mdash; 2024.2"
+#   description: 
+#     - "Accelerating TSA on UPMEM PIM DIMM and characterizing the performance of the TSA application on UPMEM"
+#     - "Exploring the effect of additional computational resources on DIMM PIM for accelerating TSA."
   
-- project: "Scheduling Framework for Commercial PIM System"
-  duration: 2024.1 &mdash; 2024.6
-  description: 
-    - "Create a scheduling framework for better utilize the CPU in CPU-PIM system"
+# - project: "Scheduling Framework for Commercial PIM System"
+#   duration: 2024.1 &mdash; 2024.6
+#   description: 
+#     - "Create a scheduling framework for better utilize the CPU in CPU-PIM system"
   
