@@ -154,8 +154,7 @@
           <h2>Projects</h2>
         </header>
 
-        <!--
-        {% for project in site.data.projects %}
+                {% for project in site.data.projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
@@ -163,9 +162,9 @@
           <p class="resume-item-copy">{{ project.description }}</p>
         </div>
         {% endfor %} 
-        -->
+       
         
-        {% for project in site.data.projects %}
+<!--         {% for project in site.data.projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
         <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
         <!-- 项目名和时间 -->
@@ -191,7 +190,7 @@
           </ul>
         </div>
       </div>
-      {% endfor %}
+      {% endfor %} -->
 
 
       </section>
