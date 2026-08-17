@@ -24,7 +24,7 @@ resume_contact_address:         "No.6 Kexueyuan South Road Zhongguancun, Haidian
 resume_header_contact_info:     "No.6 Kexueyuan South Road Zhongguancun ,Haidian District Beijing, China"
 display_header_contact_info:    "ture"
 
-resume_header_intro: "<p>I am Shunchen Shi (史舜晨), a 4th year PhD student at ICT, CAS, advised by Prof.Ninghui Sun and Prof. Xueqi Li. My interests includes domain specific accelerator, processing in memory, parallel computing and heterogeneous computing system. I have published many papers in international conferences and journals. I also serve as a reviewer for IEEE Transactions on Computers(IEEE TC). On the job market & Open to collaborations. Contact me!  </p> "
+resume_header_intro: "<p>I am Shunchen Shi (史舜晨), a 4th year PhD student at ICT, CAS, advised by Prof.Ninghui Sun and Prof. Xueqi Li. My interests includes domain specific accelerator, processing in memory, parallel computing and heterogeneous computing system. I have published many papers in international conferences and journals. I also serve as a reviewer for IEEE Transactions on Computers(IEEE TC) and IEEE Computer Architecture Letters. On the job market & Open to collaborations. Contact me!  </p> "
 #<a href="https://scholar.google.com/citations?user=23aFvhMAAAAJ&hl=en"> Google Scholar</a>
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
